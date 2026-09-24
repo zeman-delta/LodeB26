@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Martin Zeman - ukazka
+        // Martin Zeman - V.1
+        // ukazka
         Console.WriteLine("Hello, World!");
     }
 }
